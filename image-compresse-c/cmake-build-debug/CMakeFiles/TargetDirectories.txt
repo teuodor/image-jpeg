@@ -1,0 +1,3 @@
+/home/teuodor/scoala/pdav/image-compresse-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/teuodor/scoala/pdav/image-compresse-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/teuodor/scoala/pdav/image-compresse-c/cmake-build-debug/CMakeFiles/image_compresse_c.dir

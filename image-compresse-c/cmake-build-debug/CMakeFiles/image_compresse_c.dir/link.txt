@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/image_compresse_c.dir/main.cpp.o CMakeFiles/image_compresse_c.dir/Block.cpp.o CMakeFiles/image_compresse_c.dir/Image.cpp.o -o image_compresse_c 

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/teuodor/scoala/pdav/image-compresse-c/Block.h
+vector
+-
+string
+-
+
+/home/teuodor/scoala/pdav/image-compresse-c/Image.cpp
+Image.h
+/home/teuodor/scoala/pdav/image-compresse-c/Image.h
+fstream
+-
+iostream
+-
+sstream
+-
+cmath
+-
+lcms2_plugin.h
+-
+
+/home/teuodor/scoala/pdav/image-compresse-c/Image.h
+Block.h
+/home/teuodor/scoala/pdav/image-compresse-c/Block.h
+utility
+-
+iostream
+-
+cstdint
+-
+
